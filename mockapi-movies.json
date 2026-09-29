@@ -1,0 +1,772 @@
+[
+  {
+    "title": "Don't Look Up",
+    "image": "/images/film2.png",
+    "rating": 4.8,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "1"
+  },
+  {
+    "title": "All of Us Are Dead",
+    "image": "/images/film3.png",
+    "rating": 4.4,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "2"
+  },
+  {
+    "title": "Blue Lock",
+    "image": "/images/film4.png",
+    "rating": 4.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "3"
+  },
+  {
+    "title": "A Man Called Otto",
+    "image": "/images/film5.png",
+    "rating": 3.1,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "4"
+  },
+  {
+    "title": "Suzume",
+    "image": "/images/film6.png",
+    "rating": 4.9,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "5"
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "image": "/images/film7.png",
+    "rating": 4.6,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "6"
+  },
+  {
+    "title": "Sonic The Hedgehog 2",
+    "image": "/images/film8.png",
+    "rating": 4.9,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "7"
+  },
+  {
+    "title": "All of Us Are Dead",
+    "image": "/images/film9.png",
+    "rating": 4.8,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "8"
+  },
+  {
+    "title": "Big Hero 6",
+    "image": "/images/film10.png",
+    "rating": 3.4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "9"
+  },
+  {
+    "title": "The Tomorrow War",
+    "image": "/images/film11.png",
+    "rating": 4.4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "10"
+  },
+  {
+    "title": "Ant Man and the Wasp: Quantumania",
+    "image": "/images/film12.png",
+    "rating": 4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "11"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "image": "/images/film13.png",
+    "rating": 3.1,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "12"
+  },
+  {
+    "title": "A Man Called Otto",
+    "image": "/images/film14.png",
+    "rating": 3.1,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "13"
+  },
+  {
+    "title": "The Little Mermaid",
+    "image": "/images/film15.png",
+    "rating": 4.3,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "14"
+  },
+  {
+    "title": "Duty After School",
+    "image": "/images/film16.png",
+    "rating": 3.8,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "15"
+  },
+  {
+    "title": "Missing",
+    "image": "/images/film17.png",
+    "rating": 4.2,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "16"
+  },
+  {
+    "title": "Rio",
+    "image": "/images/film18.png",
+    "rating": 4.6,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "17"
+  },
+  {
+    "title": "My Perfect Stranger",
+    "image": "/images/film19.png",
+    "rating": 4.7,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "18"
+  },
+  {
+    "title": "Shazam Fury of the Gods",
+    "image": "/images/film20.png",
+    "rating": 4.9,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "19"
+  },
+  {
+    "title": "Avatar The Way of Water",
+    "image": "/images/film21.png",
+    "rating": 3.1,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "20"
+  },
+  {
+    "title": "Fast X",
+    "image": "/images/film22.png",
+    "rating": 3.4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "21"
+  },
+  {
+    "title": "Blue Lock",
+    "image": "/images/film23.png",
+    "rating": 3.5,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "22"
+  },
+  {
+    "title": "The Batman",
+    "image": "/images/film24.png",
+    "rating": 3.1,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "23"
+  },
+  {
+    "title": "A Man Called Otto",
+    "image": "/images/film25.png",
+    "rating": 4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "24"
+  },
+  {
+    "title": "Alice in Borderland",
+    "image": "/images/film26.png",
+    "rating": 4.2,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "25"
+  },
+  {
+    "title": "M3GAN",
+    "image": "/images/film27.png",
+    "rating": 3.6,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "26"
+  },
+  {
+    "title": "My Hero Academia",
+    "image": "/images/film28.png",
+    "rating": 3.7,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "27"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "image": "/images/film29.png",
+    "rating": 4.2,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "28"
+  },
+  {
+    "title": "Don't Look Up",
+    "image": "/images/film30.png",
+    "rating": 4.7,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "29"
+  },
+  {
+    "title": "Black Adam",
+    "image": "/images/film31.png",
+    "rating": 4.9,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "30"
+  },
+  {
+    "title": "The Devil All the Time",
+    "image": "/images/film32.png",
+    "rating": 3.4,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "31"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film33.png",
+    "rating": 4.6,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "32"
+  },
+  {
+    "title": "Stuart Little",
+    "image": "/images/film34.png",
+    "rating": 3.5,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "33"
+  },
+  {
+    "title": "Baymax",
+    "image": "/images/film35.png",
+    "rating": 4.6,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "34"
+  },
+  {
+    "title": "Dilan 1991",
+    "image": "/images/film36.png",
+    "rating": 3.7,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "35"
+  },
+  {
+    "title": "Spider-Man Across the Spider-Verse",
+    "image": "/images/film37.png",
+    "rating": 3.9,
+    "variant": "portrait",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "36"
+  },
+  {
+    "title": "Happiness",
+    "image": "/images/film38.png",
+    "rating": 4.5,
+    "variant": "portrait",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "37"
+  },
+  {
+    "title": "My Perfect Stranger",
+    "image": "/images/film39.png",
+    "rating": 3,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "38"
+  },
+  {
+    "title": "Shazam Fury of the Gods",
+    "image": "/images/film40.png",
+    "rating": 4.6,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "39"
+  },
+  {
+    "title": "Avatar The Way of Water",
+    "image": "/images/film41.png",
+    "rating": 4.6,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "40"
+  },
+  {
+    "title": "Fast X",
+    "image": "/images/film42.png",
+    "rating": 4.3,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "41"
+  },
+  {
+    "title": "The Little Mermaid",
+    "image": "/images/film43.png",
+    "rating": 3.7,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "42"
+  },
+  {
+    "title": "The Tomorrow War",
+    "image": "/images/film44.png",
+    "rating": 4,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "43"
+  },
+  {
+    "title": "Rio",
+    "image": "/images/film45.png",
+    "rating": 4.4,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "44"
+  },
+  {
+    "title": "Big Hero 6",
+    "image": "/images/film46.png",
+    "rating": 4.6,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "45"
+  },
+  {
+    "title": "Suzume",
+    "image": "/images/film47.png",
+    "rating": 3.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "46"
+  },
+  {
+    "title": "The Batman",
+    "image": "/images/film48.png",
+    "rating": 4.6,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "47"
+  },
+  {
+    "title": "Stuart Little",
+    "image": "/images/film49.png",
+    "rating": 3.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "48"
+  },
+  {
+    "title": "Baymax",
+    "image": "/images/film50.png",
+    "rating": 3,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "49"
+  },
+  {
+    "title": "A Killer Paradox",
+    "image": "/images/film51.png",
+    "rating": 4,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "50"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol 3",
+    "image": "/images/film52.png",
+    "rating": 4.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "51"
+  },
+  {
+    "title": "Alice in Borderland",
+    "image": "/images/film53.png",
+    "rating": 4.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "52"
+  },
+  {
+    "title": "Missing",
+    "image": "/images/film54.png",
+    "rating": 3.8,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "53"
+  },
+  {
+    "title": "M3GAN",
+    "image": "/images/film55.png",
+    "rating": 3,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "54"
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "image": "/images/film56.png",
+    "rating": 4.4,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "55"
+  },
+  {
+    "title": "Dilan 1991",
+    "image": "/images/film57.png",
+    "rating": 3.2,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "56"
+  },
+  {
+    "title": "Sonic the Hedgehog 2",
+    "image": "/images/film58.png",
+    "rating": 3.6,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "57"
+  },
+  {
+    "title": "Spider-Man Across the Spider-Verse",
+    "image": "/images/film59.png",
+    "rating": 4.2,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "58"
+  },
+  {
+    "title": "Ant-Man and the Wasp Quantumania",
+    "image": "/images/film60.png",
+    "rating": 3.2,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "59"
+  },
+  {
+    "title": "My Hero Academia",
+    "image": "/images/film61.png",
+    "rating": 4.7,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "60"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "image": "/images/film62.png",
+    "rating": 4.3,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "61"
+  },
+  {
+    "title": "Black Adam",
+    "image": "/images/film63.png",
+    "rating": 4,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "62"
+  },
+  {
+    "title": "The Devil All the Time",
+    "image": "/images/film64.png",
+    "rating": 4.1,
+    "variant": "landscape",
+    "badge": {
+      "type": "top-ten",
+      "text": "Top 10"
+    },
+    "id": "63"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film65.png",
+    "rating": 3.7,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "64"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film66.png",
+    "rating": 4.9,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "65"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film67.png",
+    "rating": 3.2,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "66"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film68.png",
+    "rating": 3.2,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "67"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film69.png",
+    "rating": 4.8,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "68"
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "/images/film70.png",
+    "rating": 3.4,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "69"
+  },
+  {
+    "title": "The Vampire Diaries",
+    "image": "/images/film71.png",
+    "rating": 4.5,
+    "variant": "landscape",
+    "badge": {
+      "type": "new-episode",
+      "text": "Episode Baru"
+    },
+    "id": "70"
+  }
+]

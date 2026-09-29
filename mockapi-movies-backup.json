@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Don't Look Up",
+    "image": "/images/film2.png",
+    "rating": 4.5,
+    "variant": "landscape",
+    "badge": null,
+    "id": "1"
+  },
+  {
+    "title": "title 2",
+    "image": "image 2",
+    "rating": 72,
+    "variant": "variant 2",
+    "badge": "badge 2",
+    "id": "2"
+  },
+  {
+    "title": "title 3",
+    "image": "image 3",
+    "rating": 64,
+    "variant": "variant 3",
+    "badge": "badge 3",
+    "id": "3"
+  },
+  {
+    "title": "title 4",
+    "image": "image 4",
+    "rating": 54,
+    "variant": "variant 4",
+    "badge": "badge 4",
+    "id": "4"
+  },
+  {
+    "title": "title 5",
+    "image": "image 5",
+    "rating": 30,
+    "variant": "variant 5",
+    "badge": "badge 5",
+    "id": "5"
+  },
+  {
+    "title": "title 6",
+    "image": "image 6",
+    "rating": 22,
+    "variant": "variant 6",
+    "badge": "badge 6",
+    "id": "6"
+  },
+  {
+    "title": "title 7",
+    "image": "image 7",
+    "rating": 32,
+    "variant": "variant 7",
+    "badge": "badge 7",
+    "id": "7"
+  },
+  {
+    "title": "title 8",
+    "image": "image 8",
+    "rating": 43,
+    "variant": "variant 8",
+    "badge": "badge 8",
+    "id": "8"
+  },
+  {
+    "title": "title 9",
+    "image": "image 9",
+    "rating": 79,
+    "variant": "variant 9",
+    "badge": "badge 9",
+    "id": "9"
+  },
+  {
+    "title": "title 10",
+    "image": "image 10",
+    "rating": 21,
+    "variant": "variant 10",
+    "badge": "badge 10",
+    "id": "10"
+  },
+  {
+    "title": "title 11",
+    "image": "image 11",
+    "rating": 70,
+    "variant": "variant 11",
+    "badge": "badge 11",
+    "id": "11"
+  },
+  {
+    "title": "title 12",
+    "image": "image 12",
+    "rating": 28,
+    "variant": "variant 12",
+    "badge": "badge 12",
+    "id": "12"
+  },
+  {
+    "title": "title 13",
+    "image": "image 13",
+    "rating": 42,
+    "variant": "variant 13",
+    "badge": "badge 13",
+    "id": "13"
+  },
+  {
+    "title": "title 14",
+    "image": "image 14",
+    "rating": 61,
+    "variant": "variant 14",
+    "badge": "badge 14",
+    "id": "14"
+  },
+  {
+    "title": "title 15",
+    "image": "image 15",
+    "rating": 55,
+    "variant": "variant 15",
+    "badge": "badge 15",
+    "id": "15"
+  },
+  {
+    "title": "title 16",
+    "image": "image 16",
+    "rating": 36,
+    "variant": "variant 16",
+    "badge": "badge 16",
+    "id": "16"
+  },
+  {
+    "title": "title 17",
+    "image": "image 17",
+    "rating": 54,
+    "variant": "variant 17",
+    "badge": "badge 17",
+    "id": "17"
+  },
+  {
+    "title": "title 18",
+    "image": "image 18",
+    "rating": 66,
+    "variant": "variant 18",
+    "badge": "badge 18",
+    "id": "18"
+  },
+  {
+    "title": "title 19",
+    "image": "image 19",
+    "rating": 42,
+    "variant": "variant 19",
+    "badge": "badge 19",
+    "id": "19"
+  },
+  {
+    "title": "title 20",
+    "image": "image 20",
+    "rating": 79,
+    "variant": "variant 20",
+    "badge": "badge 20",
+    "id": "20"
+  },
+  {
+    "title": "title 21",
+    "image": "image 21",
+    "rating": 54,
+    "variant": "variant 21",
+    "badge": "badge 21",
+    "id": "21"
+  },
+  {
+    "title": "title 22",
+    "image": "image 22",
+    "rating": 68,
+    "variant": "variant 22",
+    "badge": "badge 22",
+    "id": "22"
+  },
+  {
+    "title": "title 23",
+    "image": "image 23",
+    "rating": 44,
+    "variant": "variant 23",
+    "badge": "badge 23",
+    "id": "23"
+  },
+  {
+    "title": "title 24",
+    "image": "image 24",
+    "rating": 86,
+    "variant": "variant 24",
+    "badge": "badge 24",
+    "id": "24"
+  },
+  {
+    "title": "title 25",
+    "image": "image 25",
+    "rating": 41,
+    "variant": "variant 25",
+    "badge": "badge 25",
+    "id": "25"
+  },
+  {
+    "title": "title 26",
+    "image": "image 26",
+    "rating": 10,
+    "variant": "variant 26",
+    "badge": "badge 26",
+    "id": "26"
+  },
+  {
+    "title": "title 27",
+    "image": "image 27",
+    "rating": 99,
+    "variant": "variant 27",
+    "badge": "badge 27",
+    "id": "27"
+  },
+  {
+    "title": "title 28",
+    "image": "image 28",
+    "rating": 71,
+    "variant": "variant 28",
+    "badge": "badge 28",
+    "id": "28"
+  },
+  {
+    "title": "title 29",
+    "image": "image 29",
+    "rating": 33,
+    "variant": "variant 29",
+    "badge": "badge 29",
+    "id": "29"
+  },
+  {
+    "title": "title 30",
+    "image": "image 30",
+    "rating": 63,
+    "variant": "variant 30",
+    "badge": "badge 30",
+    "id": "30"
+  },
+  {
+    "title": "title 31",
+    "image": "image 31",
+    "rating": 67,
+    "variant": "variant 31",
+    "badge": "badge 31",
+    "id": "31"
+  },
+  {
+    "title": "title 32",
+    "image": "image 32",
+    "rating": 7,
+    "variant": "variant 32",
+    "badge": "badge 32",
+    "id": "32"
+  },
+  {
+    "title": "title 33",
+    "image": "image 33",
+    "rating": 33,
+    "variant": "variant 33",
+    "badge": "badge 33",
+    "id": "33"
+  },
+  {
+    "title": "title 34",
+    "image": "image 34",
+    "rating": 0,
+    "variant": "variant 34",
+    "badge": "badge 34",
+    "id": "34"
+  },
+  {
+    "title": "title 35",
+    "image": "image 35",
+    "rating": 34,
+    "variant": "variant 35",
+    "badge": "badge 35",
+    "id": "35"
+  },
+  {
+    "title": "title 36",
+    "image": "image 36",
+    "rating": 41,
+    "variant": "variant 36",
+    "badge": "badge 36",
+    "id": "36"
+  },
+  {
+    "title": "title 37",
+    "image": "image 37",
+    "rating": 47,
+    "variant": "variant 37",
+    "badge": "badge 37",
+    "id": "37"
+  },
+  {
+    "title": "title 38",
+    "image": "image 38",
+    "rating": 88,
+    "variant": "variant 38",
+    "badge": "badge 38",
+    "id": "38"
+  },
+  {
+    "title": "title 39",
+    "image": "image 39",
+    "rating": 6,
+    "variant": "variant 39",
+    "badge": "badge 39",
+    "id": "39"
+  },
+  {
+    "title": "title 40",
+    "image": "image 40",
+    "rating": 11,
+    "variant": "variant 40",
+    "badge": "badge 40",
+    "id": "40"
+  },
+  {
+    "title": "title 41",
+    "image": "image 41",
+    "rating": 87,
+    "variant": "variant 41",
+    "badge": "badge 41",
+    "id": "41"
+  },
+  {
+    "title": "title 42",
+    "image": "image 42",
+    "rating": 32,
+    "variant": "variant 42",
+    "badge": "badge 42",
+    "id": "42"
+  },
+  {
+    "title": "title 43",
+    "image": "image 43",
+    "rating": 52,
+    "variant": "variant 43",
+    "badge": "badge 43",
+    "id": "43"
+  },
+  {
+    "title": "title 44",
+    "image": "image 44",
+    "rating": 4,
+    "variant": "variant 44",
+    "badge": "badge 44",
+    "id": "44"
+  },
+  {
+    "title": "title 45",
+    "image": "image 45",
+    "rating": 23,
+    "variant": "variant 45",
+    "badge": "badge 45",
+    "id": "45"
+  },
+  {
+    "title": "title 46",
+    "image": "image 46",
+    "rating": 79,
+    "variant": "variant 46",
+    "badge": "badge 46",
+    "id": "46"
+  },
+  {
+    "title": "title 47",
+    "image": "image 47",
+    "rating": 40,
+    "variant": "variant 47",
+    "badge": "badge 47",
+    "id": "47"
+  },
+  {
+    "title": "title 48",
+    "image": "image 48",
+    "rating": 9,
+    "variant": "variant 48",
+    "badge": "badge 48",
+    "id": "48"
+  },
+  {
+    "title": "title 49",
+    "image": "image 49",
+    "rating": 31,
+    "variant": "variant 49",
+    "badge": "badge 49",
+    "id": "49"
+  },
+  {
+    "title": "title 50",
+    "image": "image 50",
+    "rating": 65,
+    "variant": "variant 50",
+    "badge": "badge 50",
+    "id": "50"
+  },
+  {
+    "title": "title 51",
+    "image": "image 51",
+    "rating": 26,
+    "variant": "variant 51",
+    "badge": "badge 51",
+    "id": "51"
+  },
+  {
+    "title": "title 52",
+    "image": "image 52",
+    "rating": 92,
+    "variant": "variant 52",
+    "badge": "badge 52",
+    "id": "52"
+  },
+  {
+    "title": "title 53",
+    "image": "image 53",
+    "rating": 60,
+    "variant": "variant 53",
+    "badge": "badge 53",
+    "id": "53"
+  },
+  {
+    "title": "title 54",
+    "image": "image 54",
+    "rating": 18,
+    "variant": "variant 54",
+    "badge": "badge 54",
+    "id": "54"
+  },
+  {
+    "title": "title 55",
+    "image": "image 55",
+    "rating": 66,
+    "variant": "variant 55",
+    "badge": "badge 55",
+    "id": "55"
+  },
+  {
+    "title": "title 56",
+    "image": "image 56",
+    "rating": 85,
+    "variant": "variant 56",
+    "badge": "badge 56",
+    "id": "56"
+  },
+  {
+    "title": "title 57",
+    "image": "image 57",
+    "rating": 2,
+    "variant": "variant 57",
+    "badge": "badge 57",
+    "id": "57"
+  },
+  {
+    "title": "title 58",
+    "image": "image 58",
+    "rating": 82,
+    "variant": "variant 58",
+    "badge": "badge 58",
+    "id": "58"
+  },
+  {
+    "title": "title 59",
+    "image": "image 59",
+    "rating": 69,
+    "variant": "variant 59",
+    "badge": "badge 59",
+    "id": "59"
+  },
+  {
+    "title": "title 60",
+    "image": "image 60",
+    "rating": 62,
+    "variant": "variant 60",
+    "badge": "badge 60",
+    "id": "60"
+  },
+  {
+    "title": "title 61",
+    "image": "image 61",
+    "rating": 31,
+    "variant": "variant 61",
+    "badge": "badge 61",
+    "id": "61"
+  },
+  {
+    "title": "title 62",
+    "image": "image 62",
+    "rating": 4,
+    "variant": "variant 62",
+    "badge": "badge 62",
+    "id": "62"
+  },
+  {
+    "title": "title 63",
+    "image": "image 63",
+    "rating": 65,
+    "variant": "variant 63",
+    "badge": "badge 63",
+    "id": "63"
+  },
+  {
+    "title": "title 64",
+    "image": "image 64",
+    "rating": 29,
+    "variant": "variant 64",
+    "badge": "badge 64",
+    "id": "64"
+  },
+  {
+    "title": "title 65",
+    "image": "image 65",
+    "rating": 73,
+    "variant": "variant 65",
+    "badge": "badge 65",
+    "id": "65"
+  },
+  {
+    "title": "title 66",
+    "image": "image 66",
+    "rating": 41,
+    "variant": "variant 66",
+    "badge": "badge 66",
+    "id": "66"
+  },
+  {
+    "title": "title 67",
+    "image": "image 67",
+    "rating": 49,
+    "variant": "variant 67",
+    "badge": "badge 67",
+    "id": "67"
+  },
+  {
+    "title": "title 68",
+    "image": "image 68",
+    "rating": 96,
+    "variant": "variant 68",
+    "badge": "badge 68",
+    "id": "68"
+  },
+  {
+    "title": "title 69",
+    "image": "image 69",
+    "rating": 15,
+    "variant": "variant 69",
+    "badge": "badge 69",
+    "id": "69"
+  },
+  {
+    "title": "title 70",
+    "image": "image 70",
+    "rating": 6,
+    "variant": "variant 70",
+    "badge": "badge 70",
+    "id": "70"
+  }
+]
